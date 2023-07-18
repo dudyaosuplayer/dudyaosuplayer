@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="300" height="200">
+<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="500" height="200">
 
 
 
@@ -37,20 +37,20 @@ I study at Gagarin State Technical University.
 5. etc...
 
 ### My stack:
-> 1. Python
-> 2. [Django](https://www.djangoproject.com/) 
-> 3. JS
-> 4. [Vue.js](https://vuejs.org/)
-> 5. CSS
-> 6. HTML
-> 7. SQL
-> 8. Git
+1. Python
+> [Django](https://www.djangoproject.com/) 
+3. JS
+> [Vue.js](https://vuejs.org/)
+5. CSS
+6. HTML
+7. SQL
+8. Git
 
 ## My repos:
-1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)  
-2. *[FreeLanding on Vue.js and basic algorithms](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)  
-3. *[TelegramBot "Currency Converter"](https://github.com/dudyaosuplayer/TelegramBot)  
-4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)  
+1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
+2. *[FreeLanding on Vue.js and basic algorithms](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)*  
+3. *[TelegramBot "Currency Converter"](https://github.com/dudyaosuplayer/TelegramBot)*  
+4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)**  
 
 ##Contact ⚡
 - ***Telegram: @graceozavr***
