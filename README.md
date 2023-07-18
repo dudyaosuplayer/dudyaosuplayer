@@ -48,8 +48,8 @@ I study at Gagarin State Technical University.
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
-2. *[**FreeLanding** on Vue.js and basic algorithms](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)*  
-3. *[**TelegramBot** "Currency Converter"](https://github.com/dudyaosuplayer/TelegramBot)*  
+2. [**FreeLanding** *on Vue.js and basic algorithms](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)*  
+3. [**TelegramBot** *"Currency Converter"](https://github.com/dudyaosuplayer/TelegramBot)*  
 4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)**  
 
 ##Contact ⚡
