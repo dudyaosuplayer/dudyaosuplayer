@@ -38,9 +38,9 @@ I study at Gagarin State Technical University.
 
 ### My stack:
 1. Python
-> [Django](https://www.djangoproject.com/) 
+2. > [Django](https://www.djangoproject.com/) 
 3. JS
-> [Vue.js](https://vuejs.org/)
+4. > [Vue.js](https://vuejs.org/)
 5. CSS
 6. HTML
 7. SQL
