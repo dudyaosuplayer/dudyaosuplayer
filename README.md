@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dudyaosuplayer/dudyaosuplayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Dudya`s profile! ✨
+
+
+
+![Me](https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg)
+
+
+
+    
+## About me 😄
+
+Hi there 👋! My name is Alexander, I am an Information Security student.  
+I live in Saratov.  
+I study at Gagarin State Technical University.
+
+### My hobbies:
+1. Programming
+2. Playing video games
+3. Books
+4. Films
+5. etc...
+
+### My stack:
+> Python
+  > [Django](https://www.djangoproject.com/) 
+> JS
+  > [Vue.js](https://vuejs.org/) 
+> CSS
+> HTML
+> SQL
+> Git
+
+## My repos:
+1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)  
+2. *[FreeLanding on Vue.js and basic algorithms](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)  
+3. *[TelegramBot "Currency Converter"](https://github.com/dudyaosuplayer/TelegramBot)  
+4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)  
+
+##Contact ⚡
+- ***Telegram: @graceozavr***
+- ***Mail: sasch2010pavlov@mail.ru***
