@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="500" height="200">
+<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="200" height="500">
 
 
 
