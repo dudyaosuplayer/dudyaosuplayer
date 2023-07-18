@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-![Me](https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg)
+<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="300" height="200">
+
 
 
 
@@ -36,14 +37,14 @@ I study at Gagarin State Technical University.
 5. etc...
 
 ### My stack:
-> Python
-  > [Django](https://www.djangoproject.com/) 
-> JS
-  > [Vue.js](https://vuejs.org/) 
-> CSS
-> HTML
-> SQL
-> Git
+> 1. Python
+> 2. [Django](https://www.djangoproject.com/) 
+> 3. JS
+> 4. [Vue.js](https://vuejs.org/)
+> 5. CSS
+> 6. HTML
+> 7. SQL
+> 8. Git
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)  
