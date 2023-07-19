@@ -37,7 +37,7 @@ I study at Gagarin State Technical University.
 5. etc...
 
 ### My stack:
-1. Python
+1. ![Python](https://img.shields.io/badge/PYTHON-blue)
     - > [Django](https://www.djangoproject.com/) 
 3. JS
     - > [Vue.js](https://vuejs.org/)
