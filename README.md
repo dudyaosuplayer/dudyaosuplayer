@@ -55,5 +55,5 @@ I study at Gagarin State Technical University.
 4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)**  
 
 ## Contact ⚡
-![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=telegram&logoColor=white) ***@graceozavr***
+![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=flat-square&logo=telegram&logoColor=white) ***@graceozavr***  
 ![Mail](https://img.shields.io/badge/MAIL.RU-blue?style=flat-square&logo=mail.ru&logoColor=orange) ***sasch2010pavlov@mail.ru***
