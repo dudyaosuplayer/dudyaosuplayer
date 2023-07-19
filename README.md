@@ -37,7 +37,7 @@ I study at Gagarin State Technical University.
 5. etc...
 
 ### My stack:
-![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=Node.js&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white)
 JS
 CSS
 HTML
