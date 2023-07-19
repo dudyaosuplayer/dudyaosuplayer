@@ -37,14 +37,16 @@ I study at Gagarin State Technical University.
 5. etc...
 
 ### My stack:
-1. ![Python](https://img.shields.io/badge/PYTHON-blue)
-    - > [Django](https://www.djangoproject.com/) 
-3. JS
-    - > [Vue.js](https://vuejs.org/)
-5. CSS
-6. HTML
-7. SQL
-8. Git
+![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=Node.js&logoColor=white)
+JS
+CSS
+HTML
+SQL
+Git
+
+   
+![Django](https://www.djangoproject.com/) 
+![Vue.js](https://vuejs.org/)
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
