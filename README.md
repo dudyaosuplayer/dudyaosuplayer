@@ -38,15 +38,15 @@ I study at Gagarin State Technical University.
 
 ### My stack:
 ![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JS-blue?style=flat-square&logo=JS&logoColor=white)
+![JS](https://img.shields.io/badge/JS-blue?style=flat-square&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=sql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)
 
    
-![Django](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-blue?style=flat-square&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=orange)
+![Vue.js](https://img.shields.io/badge/Vue.js-blue?style=flat-square&logo=vue.js&logoColor=orange)
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
@@ -54,6 +54,6 @@ I study at Gagarin State Technical University.
 3. [**TelegramBot** *"Currency Converter"*](https://github.com/dudyaosuplayer/TelegramBot)*  
 4. **[Simple Sea-Battle game on Python](https://github.com/dudyaosuplayer/sea_battle)**  
 
-##Contact ⚡
+## Contact ⚡
 - ***Telegram: @graceozavr***
 - ***Mail: sasch2010pavlov@mail.ru***
