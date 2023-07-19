@@ -45,8 +45,8 @@ I study at Gagarin State Technical University.
 ![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)
 
    
-![Django](https://img.shields.io/badge/Django-orange?style=flat-square&logo=django&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-orange?style=flat-square&logo=vue.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
