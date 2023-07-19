@@ -38,15 +38,15 @@ I study at Gagarin State Technical University.
 
 ### My stack:
 ![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square&logo=python&logoColor=white)
-JS
-CSS
-HTML
-SQL
-Git
+![JS](https://img.shields.io/badge/JS-blue?style=flat-square&logo=JS&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-blue?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=flat-square&logo=sql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-blue?style=flat-square&logo=git&logoColor=white)
 
    
-![Django](https://www.djangoproject.com/) 
-![Vue.js](https://vuejs.org/)
+![Django](https://img.shields.io/badge/Django-blue?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-blue?style=flat-square&logo=vue.js&logoColor=white)
 
 ## My repos:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
