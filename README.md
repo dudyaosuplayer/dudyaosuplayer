@@ -59,6 +59,9 @@ I study at Gagarin State Technical University.
 ![Mail](https://img.shields.io/badge/MAIL.RU-blue?style=flat-square&logo=mail.ru&logoColor=orange) ***sasch2010pavlov@mail.ru***
 
 
-## Stats
-<img src="https://streak-stats.demolab.com?user=dudyaosuplayer&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
-<img src="https://github-readme-stats.vercel.app/api?username=dudyaosuplayer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+## Stats 🔭
+
+<div align='center'>
+    <img src="https://streak-stats.demolab.com?user=dudyaosuplayer&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
+    <img src="https://github-readme-stats.vercel.app/api?username=dudyaosuplayer&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
