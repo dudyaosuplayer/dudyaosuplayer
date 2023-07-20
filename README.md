@@ -49,8 +49,6 @@ I study at Gagarin State Technical University.
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dota2/dota2-original.svg" height="40" alt="css3 logo"/>
-
 ## My repos ⭐:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
 2. [**FreeLanding** *on Vue.js and basic algorithms*](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)  
