@@ -49,7 +49,7 @@ I study at Gagarin State Technical University.
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
 
 
-![Dota2](https://img.shields.io/badge/Dota2-red?style=flat-square&logo=dota2&logoColor=black)
+![Dota2](https://img.shields.io/badge/Dota2-red?style=flat-square&logo=dota&logoColor=black)
 
 ## My repos ⭐:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
