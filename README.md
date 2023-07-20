@@ -48,6 +48,9 @@ I study at Gagarin State Technical University.
 ![Django](https://img.shields.io/badge/Django-green?style=flat-square&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
 
+
+![Dota2](https://img.shields.io/badge/Dota2-red?style=flat-square&logo=dota2&logoColor=black)
+
 ## My repos ⭐:
 1. **[NewPaper](https://github.com/dudyaosuplayer/NewsPaper)**  
 2. [**FreeLanding** *on Vue.js and basic algorithms*](https://github.com/dudyaosuplayer/Freelanding-with-Vue.js)  
