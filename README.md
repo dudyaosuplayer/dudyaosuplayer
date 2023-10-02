@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Dudya`s profile! ✨
-
-
-
-<img src="https://cdn.shazoo.ru/622011_XutF2N1_hjo6aqa.jpg" alt="Me" width="350" height="500">
-
-
-
-
     
 ## About me 😄
 
